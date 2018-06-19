@@ -17,7 +17,8 @@ Small box to controll onkyo multi room music (and potentially smart home devices
     * low power
     * arduino ide
   * Li Ionen Akkupack
-  * Display
+  * Display (Nextion 3.2 Zoll)
+    * https://www.youtube.com/watch?v=D-zgtylBKUc
   * Status LED 
   * some buttons
   * wheel (e.g. for volumen)
@@ -32,4 +33,5 @@ Small box to controll onkyo multi room music (and potentially smart home devices
   * control heating, 
   * water plants 
   * show weather forcast
+   * https://www.youtube.com/watch?v=eI-4_QyVenw
   * ...
